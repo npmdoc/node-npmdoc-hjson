@@ -1,4 +1,7 @@
-# api documentation for  [hjson (v2.4.1)](http://hjson.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-hjson.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hjson) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hjson.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hjson)
+# npmdoc-hjson
+
+#### basic api documentation for  [hjson (v2.4.1)](http://hjson.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-hjson.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hjson) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hjson.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hjson)
+
 #### A user interface for JSON.
 
 [![NPM](https://nodei.co/npm/hjson.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hjson)
